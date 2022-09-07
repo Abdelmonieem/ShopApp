@@ -1,0 +1,4 @@
+class ProfileUpdateModel{
+
+  ProfileUpdateModel(){}
+}
